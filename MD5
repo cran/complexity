@@ -1,4 +1,8 @@
-45315bc53f7221ea300760b527b2b8d8 *DESCRIPTION
-35a40dd4e5da16ab03f0c5ded3c7cb4c *NAMESPACE
+e4ebd4de6eea17cd547376239afce008 *DESCRIPTION
+5aeef997aca81fde9e48f50860a443b4 *NAMESPACE
 2b13801bce326afa57b1a8f0923558a0 *R/complexity.R
+91433f159ff99b9423dcaa3316f6acec *R/runShiny.R
+1bae091ca9acb2d6f9405dacd800d8f9 *inst/shiny-examples/myapp/server.R
+50c893cea78bc42764441e4665d3a4b5 *inst/shiny-examples/myapp/ui.R
 f6085f45c5a12dc7748c5643cb6d31ed *man/complexity.Rd
+cdbe5b5e43283e392c3566195dfa3117 *man/runShiny.Rd
