@@ -1,8 +1,8 @@
-## ---- message=FALSE, warning=FALSE,echo=FALSE----------------------------
+## ---- message=FALSE, warning=FALSE,echo=FALSE---------------------------------
 library(complexity)
 complexity(4,1,2,3,4)
 
-## ---- echo=FALSE---------------------------------------------------------
+## ---- echo=FALSE--------------------------------------------------------------
 complexity(6, 1,2,4,2,4,3,4,6,5,6)
 
 #`total number of permutations'
@@ -14,7 +14,7 @@ complexity(6, 1,2,4,2,4,3,4,6,5,6)
 #$`complexity (proportion)'
 #[1] 0.09166667
 
-## ---- eval=FALSE,tidy=TRUE-----------------------------------------------
+## ---- eval=FALSE,tidy=TRUE----------------------------------------------------
 #  complexity <- function(npar,...){
 #  
 #    require(combinat)
